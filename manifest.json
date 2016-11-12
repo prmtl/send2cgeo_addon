@@ -28,7 +28,18 @@
       "match_about_blank": false,
       "all_frames": false,
       "matches": [
-        "*://opencaching.pl/viewcache.php*"
+        "*://opencaching.pl/viewcache.php*",
+        "*://www.opencaching.de/viewcache.php*",
+        "*://opencaching.cz/viewcache.php*",
+        "*://www.opencaching.cz/viewcache.php*",
+        "*://www.opencachingspain.es/viewcache.php*",
+        "*://www.opencaching.fr/viewcache.php*",
+        "*://www.opencaching.it/viewcache.php*",
+        "*://www.opencaching.nl/viewcache.php*",
+        "*://www.opencaching.ro/viewcache.php*",
+        "*://opencache.uk/viewcache.php*",
+        "*://www.opencaching.us/viewcache.php*",
+        "*://opencaching.us/viewcache.php*"
       ]
     }
   ],
