@@ -21,3 +21,8 @@ In such cases, deticated addon is a solution and here it is.
 * http://www.opencaching.ro
 * http://opencache.uk
 * http://www.opencaching.us
+
+# Links
+
+* [send2cgeo for Chrome](https://chrome.google.com/webstore/detail/send2cgeo/baflojfpgicbegbdfaklkhnjoikendeh)
+* [send2cgeo for Firefox](https://addons.mozilla.org/en-US/firefox/addon/send2cgeo/)
